@@ -58,50 +58,9 @@ private:
     bool intersection(Node *x, int low, int high)
     {
 
-        /*
-            case :
-         x       -------
-         l,h --- 
-         or 
-         x    -------
-                    l,h  ------  
-        */
+        // if the node is out of the range
         return !(x->low > high  || x->high < low);
-        // // case 1
-        // /*
-        // x=   1 ---- 5
-        //         3 ---- 6
-        // */
-        // if (x->low < low && x->high > low)
-        //     return true;
-
-        // // case 2
-        // /*
-        //  x =   4 ---- 18
-        //     1 --- 5
-        // */
-        // if (x->low < high && high <= x->high)
-        // {
-        //     return true;
-        // }
-
-        // // case 3 = case2
-        // /*
-        // x =  1 ------------ 20
-        //          5 --- 9
-        // */
-
-        // // case 4
-        // /*
-        // x =     5  --- 9
-        //      1 ------------- 20
-        // */
-        // if (low <= x->low && x->high <= high)
-        // {
-        //     return true;
-        // }
-
-        // return false;
+        
     }
 
     Node *searchInterval(Node *node, int low, int high)
@@ -170,13 +129,6 @@ public:
     void print()
     {
         dfs(root);
-    }
-
-    void printRoot()
-    {
-        cout << "ROOOOOOOT\n";
-        cout << "Node: low = " << root->low << ", high = " << root->high << " max_end_point =" << root->max_end_point << endl;
-        cout << "\n\n\n";
     }
 };
 int main()
