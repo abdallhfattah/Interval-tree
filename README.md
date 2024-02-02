@@ -23,6 +23,11 @@ The code defines a class `IntervalTree`, which has methods for inserting interva
 3. `Node* searchInterval(Node* node, int low, int high)`: Private method for recursively searching for overlapping intervals.
 4. `void dfs(Node* root)`: Private method for Depth-First Search traversal.
 
+
+### TEST
+1. Run the following command to build the project: `cmake --build build -j 12`
+2. Run the following command to run the tests: `GTEST_COLOR=1 ctest --test-dir build --output-on-failure -j12`
+
 ### Example Usage:
 
 ```cpp
