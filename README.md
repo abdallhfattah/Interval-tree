@@ -14,7 +14,6 @@ The code defines a class `IntervalTree`, which has methods for inserting interva
 2. `void insertInterval(int low, int high)`: Inserts a new interval into the tree.
 3. `void searchInterval(int low, int high)`: Searches for intervals that overlap with the given query interval.
 4. `void print()`: Prints the entire tree structure using Depth-First Search (DFS).
-5. `void printRoot()`: Prints information about the root node.
 
 #### Private Methods:
 
@@ -24,9 +23,11 @@ The code defines a class `IntervalTree`, which has methods for inserting interva
 4. `void dfs(Node* root)`: Private method for Depth-First Search traversal.
 
 
-### TEST
+### To start the project:
 1. Run the following command to build the project: `cmake --build build -j 12`
-2. Run the following command to run the tests: `GTEST_COLOR=1 ctest --test-dir build --output-on-failure -j12`
+
+### TEST
+1. Run the following command to run the tests: `GTEST_COLOR=1 ctest --test-dir build --output-on-failure -j12`
 
 ### Example Usage:
 
@@ -42,3 +43,8 @@ intervalTree.searchInterval(15, 25);
 
 // Print the tree structure
 intervalTree.print();
+```
+
+// ```git submodule update --init --recursive``` updates the submodule, already fixed with script so you dont have to write it
+
+
