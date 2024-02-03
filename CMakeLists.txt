@@ -9,4 +9,4 @@ include(cmake/UpdateSubmodules.cmake) # updates google tests properly, no outdat
 include(CTest)
 
 add_subdirectory(external)
-add_subdirectory(tests)
+add_subdirectory(test)
