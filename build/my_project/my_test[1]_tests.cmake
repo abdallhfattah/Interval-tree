@@ -1,0 +1,5 @@
+add_test( TestTopic.check [==[/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/my_project/my_test]==] [==[--gtest_filter=TestTopic.check]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TestTopic.check PROPERTIES WORKING_DIRECTORY [==[/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/my_project]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( TestTopic.trivialTest [==[/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/my_project/my_test]==] [==[--gtest_filter=TestTopic.trivialTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( TestTopic.trivialTest PROPERTIES WORKING_DIRECTORY [==[/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/my_project]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( my_test_TESTS TestTopic.check TestTopic.trivialTest)

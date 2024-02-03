@@ -1,0 +1,678 @@
+Start testing: Feb 02 13:23 EET
+----------------------------------------------------------
+18/25 Testing: IntervalTreeTest.EmptyTree
+18/25 Test: IntervalTreeTest.EmptyTree
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.EmptyTree" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.EmptyTree" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.EmptyTree
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.EmptyTree
+[0;32m[       OK ] [mIntervalTreeTest.EmptyTree (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.EmptyTree" end time: Feb 02 13:23 EET
+"IntervalTreeTest.EmptyTree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/25 Testing: IntervalTreeTest.SingleIntervalQueryWithLargeValues
+17/25 Test: IntervalTreeTest.SingleIntervalQueryWithLargeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.SingleIntervalQueryWithLargeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.SingleIntervalQueryWithLargeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.SingleIntervalQueryWithLargeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.SingleIntervalQueryWithLargeValues
+[0;32m[       OK ] [mIntervalTreeTest.SingleIntervalQueryWithLargeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.SingleIntervalQueryWithLargeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.SingleIntervalQueryWithLargeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/25 Testing: IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues
+19/25 Test: IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsWithSameLowHighValues
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsWithSameLowHighValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsWithSameLowHighValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/25 Testing: IntervalTreeTest.SingleIntervalQueryWithNegativeValues
+16/25 Test: IntervalTreeTest.SingleIntervalQueryWithNegativeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.SingleIntervalQueryWithNegativeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.SingleIntervalQueryWithNegativeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.SingleIntervalQueryWithNegativeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.SingleIntervalQueryWithNegativeValues
+[0;32m[       OK ] [mIntervalTreeTest.SingleIntervalQueryWithNegativeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.SingleIntervalQueryWithNegativeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.SingleIntervalQueryWithNegativeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/25 Testing: IntervalTreeTest.LargeValues
+9/25 Test: IntervalTreeTest.LargeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.LargeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.LargeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.LargeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.LargeValues
+[0;32m[       OK ] [mIntervalTreeTest.LargeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.LargeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.LargeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/25 Testing: IntervalTreeTest.LargeNumberOfIntervals
+10/25 Test: IntervalTreeTest.LargeNumberOfIntervals
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.LargeNumberOfIntervals" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.LargeNumberOfIntervals" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.LargeNumberOfIntervals
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.LargeNumberOfIntervals
+[0;32m[       OK ] [mIntervalTreeTest.LargeNumberOfIntervals (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.LargeNumberOfIntervals" end time: Feb 02 13:23 EET
+"IntervalTreeTest.LargeNumberOfIntervals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/25 Testing: IntervalTreeTest.OverlappingIntervalFoundLeftChild
+4/25 Test: IntervalTreeTest.OverlappingIntervalFoundLeftChild
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalFoundLeftChild" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalFoundLeftChild" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalFoundLeftChild
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalFoundLeftChild
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalFoundLeftChild (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalFoundLeftChild" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalFoundLeftChild" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/25 Testing: IntervalTreeTest.OverlappingIntervalsWithZero
+8/25 Test: IntervalTreeTest.OverlappingIntervalsWithZero
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsWithZero" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsWithZero" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsWithZero
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsWithZero
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsWithZero (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsWithZero" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsWithZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/25 Testing: IntervalTreeTest.OverlappingIntervalsWithNegativeValues
+7/25 Test: IntervalTreeTest.OverlappingIntervalsWithNegativeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsWithNegativeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsWithNegativeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsWithNegativeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsWithNegativeValues
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsWithNegativeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsWithNegativeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsWithNegativeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/25 Testing: IntervalTreeTest.OverlappingIntervalFound
+2/25 Test: IntervalTreeTest.OverlappingIntervalFound
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalFound" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalFound" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalFound
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalFound
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalFound (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalFound" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/25 Testing: IntervalTreeTest.SingleIntervalQueryOutsideInterval
+15/25 Test: IntervalTreeTest.SingleIntervalQueryOutsideInterval
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.SingleIntervalQueryOutsideInterval" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.SingleIntervalQueryOutsideInterval" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.SingleIntervalQueryOutsideInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.SingleIntervalQueryOutsideInterval
+[0;32m[       OK ] [mIntervalTreeTest.SingleIntervalQueryOutsideInterval (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.SingleIntervalQueryOutsideInterval" end time: Feb 02 13:23 EET
+"IntervalTreeTest.SingleIntervalQueryOutsideInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/25 Testing: IntervalTreeTest.QueryIntervalWithNegativeValues
+11/25 Test: IntervalTreeTest.QueryIntervalWithNegativeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalWithNegativeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalWithNegativeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalWithNegativeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalWithNegativeValues
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalWithNegativeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalWithNegativeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalWithNegativeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/25 Testing: IntervalTreeTest.QueryIntervalWithSameLowHighValues
+20/25 Test: IntervalTreeTest.QueryIntervalWithSameLowHighValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalWithSameLowHighValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalWithSameLowHighValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalWithSameLowHighValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalWithSameLowHighValues
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalWithSameLowHighValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalWithSameLowHighValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalWithSameLowHighValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/25 Testing: IntervalTreeTest.QueryIntervalWithLargeValues
+12/25 Test: IntervalTreeTest.QueryIntervalWithLargeValues
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalWithLargeValues" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalWithLargeValues" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalWithLargeValues
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalWithLargeValues
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalWithLargeValues (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalWithLargeValues" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalWithLargeValues" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/25 Testing: IntervalTreeTest.QueryIntervalWithZero
+13/25 Test: IntervalTreeTest.QueryIntervalWithZero
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalWithZero" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalWithZero" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalWithZero
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalWithZero
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalWithZero (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalWithZero" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalWithZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/25 Testing: IntervalTreeTest.QueryIntervalFullyContainedInOneInterval
+5/25 Test: IntervalTreeTest.QueryIntervalFullyContainedInOneInterval
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalFullyContainedInOneInterval" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalFullyContainedInOneInterval" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalFullyContainedInOneInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalFullyContainedInOneInterval
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalFullyContainedInOneInterval (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalFullyContainedInOneInterval" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalFullyContainedInOneInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/25 Testing: IntervalTreeTest.QueryIntervalNotFound
+6/25 Test: IntervalTreeTest.QueryIntervalNotFound
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.QueryIntervalNotFound" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.QueryIntervalNotFound" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.QueryIntervalNotFound
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.QueryIntervalNotFound
+[0;32m[       OK ] [mIntervalTreeTest.QueryIntervalNotFound (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.QueryIntervalNotFound" end time: Feb 02 13:23 EET
+"IntervalTreeTest.QueryIntervalNotFound" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/25 Testing: IntervalTreeTest.SingleInterval
+14/25 Test: IntervalTreeTest.SingleInterval
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.SingleInterval" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.SingleInterval" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.SingleInterval
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.SingleInterval
+[0;32m[       OK ] [mIntervalTreeTest.SingleInterval (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.SingleInterval" end time: Feb 02 13:23 EET
+"IntervalTreeTest.SingleInterval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/25 Testing: IntervalTreeTest.RandomIntervals1
+24/25 Test: IntervalTreeTest.RandomIntervals1
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.RandomIntervals1" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.RandomIntervals1" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.RandomIntervals1
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.RandomIntervals1
+[0;32m[       OK ] [mIntervalTreeTest.RandomIntervals1 (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.RandomIntervals1" end time: Feb 02 13:23 EET
+"IntervalTreeTest.RandomIntervals1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/25 Testing: IntervalTreeTest.OverlappingIntervalFoundRightChild
+3/25 Test: IntervalTreeTest.OverlappingIntervalFoundRightChild
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalFoundRightChild" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalFoundRightChild" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalFoundRightChild
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalFoundRightChild
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalFoundRightChild (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalFoundRightChild" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalFoundRightChild" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/25 Testing: IntervalTreeTest.RandomIntervals2
+25/25 Test: IntervalTreeTest.RandomIntervals2
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.RandomIntervals2" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.RandomIntervals2" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.RandomIntervals2
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.RandomIntervals2
+[0;32m[       OK ] [mIntervalTreeTest.RandomIntervals2 (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.RandomIntervals2" end time: Feb 02 13:23 EET
+"IntervalTreeTest.RandomIntervals2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/25 Testing: IntervalTreeTest.NoOverlappingIntervals
+1/25 Test: IntervalTreeTest.NoOverlappingIntervals
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.NoOverlappingIntervals" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.NoOverlappingIntervals" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.NoOverlappingIntervals
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.NoOverlappingIntervals
+[0;32m[       OK ] [mIntervalTreeTest.NoOverlappingIntervals (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.NoOverlappingIntervals" end time: Feb 02 13:23 EET
+"IntervalTreeTest.NoOverlappingIntervals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/25 Testing: IntervalTreeTest.OverlappingIntervalsOneContainingAnother
+21/25 Test: IntervalTreeTest.OverlappingIntervalsOneContainingAnother
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsOneContainingAnother" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsOneContainingAnother" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsOneContainingAnother
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsOneContainingAnother
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsOneContainingAnother (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsOneContainingAnother" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsOneContainingAnother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/25 Testing: IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother
+22/25 Test: IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsOneContainedWithinAnother" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/25 Testing: IntervalTreeTest.OverlappingIntervalsWithEqualIntervals
+23/25 Test: IntervalTreeTest.OverlappingIntervalsWithEqualIntervals
+Command: "/home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests/interval_tree_test" "--gtest_filter=IntervalTreeTest.OverlappingIntervalsWithEqualIntervals" "--gtest_also_run_disabled_tests"
+Directory: /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/build/tests
+"IntervalTreeTest.OverlappingIntervalsWithEqualIntervals" start time: Feb 02 13:23 EET
+Output:
+----------------------------------------------------------
+Running main() from /home/abdallh/Desktop/Third year/ds/Assignments/2/Assign2_AdvancedDataStructures/external/googletest/googletest/src/gtest_main.cc
+[0;33mNote: Google Test filter = IntervalTreeTest.OverlappingIntervalsWithEqualIntervals
+[m[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from IntervalTreeTest
+[0;32m[ RUN      ] [mIntervalTreeTest.OverlappingIntervalsWithEqualIntervals
+[0;32m[       OK ] [mIntervalTreeTest.OverlappingIntervalsWithEqualIntervals (0 ms)
+[0;32m[----------] [m1 test from IntervalTreeTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"IntervalTreeTest.OverlappingIntervalsWithEqualIntervals" end time: Feb 02 13:23 EET
+"IntervalTreeTest.OverlappingIntervalsWithEqualIntervals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 02 13:23 EET
